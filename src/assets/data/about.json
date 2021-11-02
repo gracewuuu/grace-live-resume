@@ -1,0 +1,25 @@
+{
+    "internationalizations": [
+        {
+            "language": "en",
+            "description": "I'm studying at the Schulich School of Business with a specialization in marketing. I love the bridge between creative and strategic work, everything from looking for patterns in data to creative brand-storming. <br><br> Despite my business background, I'm also a writer, designer, and illustrator who loves lending my creative skills to causes I'm passionate about.<br><br>3 things you can find me doing in my spare time: making Spotify playlists, watching true-crime documentaries, and organizing my life on Notion!"
+        }
+    ],
+    "medias": [
+        {
+            "icon": "linkedin",
+            "title": "LinkedIn",
+            "http": "https://www.linkedin.com/in/gracewuu/"
+        },
+        {
+            "icon": "instagram",
+            "title": "Instagram",
+            "http": "https://instagram.com/gracesthetics.png"
+        },
+        {
+            "icon": "spotify",
+            "title": "Spotify",
+            "http": "https://open.spotify.com/playlist/6vyRzaYYdPIieOQNyVVrwx?si=1e582707e5de4968"
+        }
+    ]
+}

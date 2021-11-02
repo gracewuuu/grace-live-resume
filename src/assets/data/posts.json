@@ -1,0 +1,49 @@
+[
+  {
+      "thumbnail": "../../assets/posts/apps.jpg",
+      "http": "https://www.makeuseof.com/to-do-list-apps-for-the-productive-minimalist/",
+      "date": "06-28-2021",
+      "internationalizations": [
+          {
+              "language": "en",
+              "title": "7 Elegant To-Do List Apps for the Productive Minimalist",
+              "description": "Love to-do list apps but not too fond of extra features? Try these minimalist productivity apps for your tasks."
+            }
+      ]
+  },
+  {
+      "thumbnail": "../../assets/posts/coffee.jpg",
+      "http": "https://www.makeuseof.com/websites-with-ambient-coffee-shop-sounds-stay-productive/",
+      "date": "05-28-2021",
+      "internationalizations": [
+          {
+              "language": "en",
+              "title": "6 Websites With Ambient Coffee Shop Sounds to Help You Stay Productive",
+              "description": "Coffee shops can help you focus and get you in the flow. These websites bring the ambient sounds of a coffee shop to you."
+            }
+      ]
+  },
+    {
+        "thumbnail": "../../assets/posts/fomo.jpeg",
+        "http": "https://grace-wuuu.medium.com/fomo-as-a-side-effect-of-social-distancing-1aec58c5a530",
+        "date": "08-28-2020",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "FOMO as a Side Effect of Social Distancing",
+                "description": "A look back at what I missed out on this summer, but also what I gained."
+              }
+        ]
+    },
+    {
+        "thumbnail": "../../assets/posts/itunes.jpeg",
+        "http": "https://grace-wuuu.medium.com/pause-play-purchase-a-case-study-on-itunes-5fcc33823dff",
+        "date": "04-09-2019",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Pause, play, purchase: a case study on iTunes",
+                "description": "A case study on how iTunes prevailed (and later lost) as the digital era turned the music industry on its head."}
+        ]
+    }
+]

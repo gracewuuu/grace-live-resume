@@ -1,0 +1,139 @@
+[
+    {
+        "id": 1,
+        "position": 1,
+        "startAt": "02-01-2020",
+        "endAt": "02-01-2021",
+        "companyName": "The Insider Media Group",
+        "website": "https://theinsidermediagroup.org/",
+        "logo": "../../assets/template/experience/logo/img.png",
+        "internationalizations": [
+            {
+                "language": "en",
+                "city": "Toronto",
+                "country": "Canada",
+                "role": "President",
+                "description": "The Insider Media Group is a university student-led media club that works to uplift and is the voice of the Schulich community. Throughout the year, we host events to set students up for professional success, publish curated magazines, and continuously produce written and live media content.<br><br>As the Co-President, I lead a group of 22+ executive team members in executing all our operations for the year and introducing new initiatives. Team accomplishments during my term included: a special-edition Back to School digital magazine, a Hot Off the Press media contest, and an expanded portfolio of events and content. I was also a host for our new podcast, The Inside Scoop! I now act as a senior advisor."
+            }
+        ],
+        "technologies": [
+            "Leadership", "Teamwork", "Project Management", "Supervising", "Strategy & Operations", "Graphic Design", "Email Marketing", "Mailchimp", "Event Planning", "Podcast Hosting"
+        ],
+        "backgroundUrl": "../../assets/template/experience/uberaba.jpg"
+    },
+    {
+        "id": 2,
+        "position": 2,
+        "startAt": "05-01-2020",
+        "endAt": "08-01-2020",
+        "companyName": "RBC",
+        "website": "https://www.rbcroyalbank.com/",
+        "logo": "../../assets/template/experience/logo/rbc.png",
+        "internationalizations": [
+            {
+                "language": "en",
+                "city": "Toronto",
+                "country": "Canada",
+                "role": "Operations Agent",
+                "description": "RBC is one of the leading banks of Canada, prioritizing client care and community. As an operations agent in the Private Banking Operations team, I fulfilled client requests with accuracy and attention to detail.<br><br>During my time there, my accomplishments included taking the initiative to create a job aid document for insurance letter processing that was submitted to National Office. I also lead a summer-long team-building competition, rebranded the internal team social page, and spearheaded an email campaign on food insecurity awareness for the Private Banking & Specialized Liabilities department."
+            }
+        ],
+        "technologies": [
+            "Detail-Oriented", "Timeliness", "Teamwork", "Leadership", "Planning", "Scheduling", "Microsoft Office Tools", "Networking"
+        ],
+
+        "backgroundUrl": "../../assets/template/experience/uberaba.jpg"
+    },
+    {
+        "id": 3,
+        "position": 3,
+        "startAt": "09-01-2020",
+        "endAt": "12-01-2020",
+        "companyName": "Coalition Music",
+        "website": "https://www.coalitionmusic.com/",
+        "logo": "../../assets/template/experience/logo/coalition.png",
+        "internationalizations": [
+            {
+                "language": "en",
+                "city": "Toronto",
+                "country": "Canada",
+                "role": "Content Creator",
+                "description": "Coalition Music Records is an artist management label based in Toronto that works with Canadian names such as Scott Helman, Myles Castello, Simple Plan, USS, and more.<br><br>As a content creator, I had the privilege of using my graphic design, video creation, illustration, and photoshop skills to create artwork for the artists. This included Instagram stickers, Spotify canvases, album covers, animated videos, postcards, social media graphics, and more."
+            }
+        ],
+        "technologies": [
+            "Photo Editing", "Adobe Photoshop", "Animation", "Digital Illustration", "Procreate", "Graphic Design", "Affinity Designer", "Video Editing", "Final Cut Pro X", "Social Media Collateral", "Canva", "Time Management", "Workflow Tools"
+        ],
+
+        "backgroundUrl": "../../assets/template/experience/uberaba.jpg"
+    },
+    {
+        "id": 4,
+        "position": 4,
+        "startAt": "01-01-2021",
+        "endAt": "04-01-2021",
+        "companyName": "HFS Co.",
+        "website": "https://www.hfsco.ca/",
+        "logo": "../../assets/template/experience/logo/hfs.png",
+        "internationalizations": [
+            {
+                "language": "en",
+                "city": "Barrie",
+                "country": "Canada",
+                "role": "Branding & Digital Marketing Intern",
+                "description": "HFS Co. a digital marketing, web design, and branding agency based in Barrie, Ontario that helps small businesses build their brand identities and online presences.<br><br>I generated social media collateral and designed paid ads, wrote compelling SEO-driven copy, and planned and executed content strategies for 5+ clients. These included BLiSS Ann Green Yoga, PUR Resilience, Kraig Schwartz RE & Painted Door Realty, and Southwest Fire Academy. As the lead intern, I also onboarded & trained new hires on Pinterest marketing and Squarespace web design."
+                  }
+        ],
+        "technologies": [
+            "Social Media Management", "Graphic Design", "Copywriting", "Content Planning", "Content Scheduling", "Hootsuite", "Later", "Time Management", "Creative Strategy", "Workflow Tools", "Web Design", "Squarespace"
+        ],
+
+        "backgroundUrl": "../../assets/template/experience/uberaba.jpg"
+    },
+    {
+        "id": 5,
+        "position": 5,
+        "startAt": "05-01-2021",
+        "endAt": "08-01-2021",
+        "companyName": "RBC",
+        "website": "https://www.rbcroyalbank.com/",
+        "logo": "../../assets/template/experience/logo/rbc.png",
+        "internationalizations": [
+            {
+                "language": "en",
+                "city": "Toronto",
+                "country": "Canada",
+                "role": "Communications Analyst",
+                "description": "As a Communications Analyst working under the Retail Banking + Payments Technology division, I supported internal communications for nearly 1,000 working professionals.<br><br>Key highlights of my work term included spearheading the design of a enterprise-wide team page for Strategy & Business Operations, a student video series for incoming RBPT students, leading the internal email newsletter campaign for Engineering Transformation, formulating employee Slack engagement strategies, and supporting the execution of Town Halls and other employee events. My contributions within my team and the greater RBC community earned me a roundtable talk with Jules Andrew, SVP of STEO, and recognition from Olympian Sarah Wells for my participation in the Believe Impact Initiatve."
+                  }
+        ],
+        "technologies": [
+            "Communication", "Slide Deck Design", "Graphic Design", "Figma", "Email Newsletter Management", "Microsoft Office Tools", "Web Design", "HTML", "Event Planning", "Employee Engagement", "Leadership", "Teamwork", "Networking"
+        ],
+
+        "backgroundUrl": "../../assets/template/experience/uberaba.jpg"
+    },
+    {
+        "id": 6,
+        "position": 6,
+        "startAt": "07-01-2021",
+        "endAt": "08-01-2021",
+        "companyName": "Bad Parade",
+        "website": "https://www.badparade.com/",
+        "logo": "../../assets/template/experience/logo/bad parade.png",
+        "internationalizations": [
+            {
+                "language": "en",
+                "city": "Toronto",
+                "country": "Canada",
+                "role": "Social Media & Communications Coordinator",
+                "description": "Bad Parade is a Canadian music publicity company servicing independent artists in PR for music releases, touring information, and media press kits.<br><br>Within my placement, I managed the social media accounts for Bad Parade to display media coverage and share PR tips, designed paid ads and newsletters, and made design improvements to the website."
+                  }
+        ],
+        "technologies": [
+            "Social Media Management", "Canva", "Graphic Design", "Web Design", "Wix", "Content Planning", "Sales Pitching", "Communication", "Publicity", "Copywriting"
+        ],
+
+        "backgroundUrl": "../../assets/template/experience/uberaba.jpg"
+    }
+]
