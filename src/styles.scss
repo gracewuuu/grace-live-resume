@@ -1,0 +1,53 @@
+//----------------------------------*\
+// Fonts
+//----------------------------------*/
+@import 'assets/scss/modules/_fonts.scss';
+
+// primary background and font
+$primary_font: "Mattone", sans-serif;
+$primary_background: #F9ECE3;
+$secondary_background: #F9ECE3;
+
+// font-weight
+$thin:100;
+$light:300;
+$regular:400;
+$semi-bold:600;
+$bold:700;
+$black:900;
+
+// Font size
+$font-xs:12px;
+$font-sm: 14px;
+$primary-fs: 16px;
+$font-md: 18px;
+$font-lg: 20px;
+
+@font-face {
+  font-family: "Mazius Display Italic";
+  src: url("assets/fonts/italic/MAZIUSREVIEW20.09-Italic.woff2") format("woff2"),
+       url("assets/fonts/italic/MAZIUSREVIEW20.09-Italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Mazius Display";
+  src: url("assets/fonts/regular/MAZIUSREVIEW20.09-Regular.woff2") format("woff2"),
+       url("assets/fonts/regular/MAZIUSREVIEW20.09-Regular.woff") format("woff");
+}
+
+html, body {
+    height: 100%;
+    background: $primary_background;
+    font-family: $primary_font;
+    font-size: $primary-fs;
+    font-weight: $regular;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+section {
+    display: flex;
+}
+
+app-welcome, app-experience, app-about, app-posts, app-contact { display: block; }
