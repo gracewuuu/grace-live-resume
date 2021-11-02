@@ -1,0 +1,47 @@
+footer {
+    background-color: #A58068;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fork-github {
+    text-align: left;
+    font-weight: 500;
+    flex-grow: 1;
+}
+
+.fork-github a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.fork-github span {
+    margin-left: 0.5em;
+}
+
+.fork-github a:hover {
+    text-decoration: underline;
+}
+
+.icon {
+    font-size: 18px;
+    color: #fff;
+}
+
+.copyright {
+    text-align: left;
+    color: #fff;
+    font-weight: 200;
+    font-family: "Mazius Display Italic";
+}
+
+.quote {
+    text-align: right;
+    color: #fff;
+    font-weight: 200;
+    font-family: "Mazius Display Italic";
+}
+p {
+    margin: 0;
+    padding: 1em;
+}

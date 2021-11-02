@@ -1,0 +1,132 @@
+.events-content {
+    flex-grow: 4;
+    position: relative;
+    width: 100%;
+    transition: height 0.4s;
+
+    ol {
+        list-style: none;
+        padding: 0;
+        display: flex;
+        justify-content: space-around;
+
+        li {
+            margin-right: 1em;
+            text-align: right;
+
+            &:last-child {
+                margin-right: 0;
+            }
+        }
+
+        .card {
+            flex-grow: 1;
+            cursor: pointer;
+            background-color: #fff;
+            flex-direction: row;
+            border-radius: 15px;
+            box-shadow: 0 0 9px 0 rgba(240, 223, 223, 0.16);
+            border: 2px solid #EEC4AA;
+            transition: all 0.2s ease-in-out;
+
+            a {
+                text-decoration: none;
+            }
+
+            .thumbnail {
+                height: 170px;
+                background-color: #c1c7dc;
+                border-top-left-radius: 15px;
+                border-top-right-radius: 15px;
+                position: relative;
+                background-size: cover;
+                background-position: center center;
+                background-repeat: no-repeat;
+
+                .date {
+                    position: absolute;
+                    bottom: 0;
+                    right: 0;
+                    background-color: #fff;
+                    padding: 5px 5px 0 5px;
+                    border-radius: 10px 0 0 0;
+                    font-size: 15px;
+                    font-weight: 600;
+                    font-family: "Mazius Display";
+                    color: #EEC4AA;
+                }
+            }
+
+            .content {
+                padding: 1em;
+                min-height: 180px;
+
+                h2.title {
+                    margin-top: 0;
+                    color: #A58068;
+                    font-weight: 600;
+                    font-size: 18px;
+                    text-align: left;
+                }
+
+                p.description {
+                    font-size: 14px;
+                    font-weight: 500;
+                    color: #A58068;
+                    text-align: left;
+                    line-height: 1.5em;
+                    font-family: "Montserrat";
+                }
+            }
+
+            button.read-more {
+                border: 0px solid #ccc;
+                background-color: #EEC4AA;
+                padding: 5px 10px;
+                border-radius: 15px;
+                font-family: "Mazius Display Italic", sans-serif;
+                font-size: 14px;
+                font-weight: 600;
+                text-decoration: none;
+                color: #fff;
+                cursor: pointer;
+                margin: 0 15px 15px 0;
+
+                &:hover {
+                    background-color: #F9ECE3;
+                    color: #A58068;
+                }
+            }
+
+            &:hover {
+                transform: scale(1.025);
+            }
+        }
+        &.partial {
+            justify-content: start;
+
+            .card {
+                max-width: 360px;
+            }
+        }
+    }
+
+    .paginator {
+        text-align: right;
+        color: #C29981;
+        font-style: regular;
+
+        span {
+            font-size: 16px;
+            margin-left: 5px;
+        }
+
+        .range {
+            font-weight: 600;
+        }
+
+        .label {
+            text-transform: lowercase;
+        }
+    }
+}

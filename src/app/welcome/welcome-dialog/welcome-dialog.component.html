@@ -1,0 +1,21 @@
+<div class="dialog-container">
+      <img loading="lazy" src="./assets/template/welcome/transparent.png" alt="Welcome "/>
+    <div class="console">
+        <p class="hello" i18n="dialog@@hello">Hello!</p>
+        <span
+            style="font family: Mazius Display Italic"
+            class="txt-rotate"
+            typingAnimation
+            [phrasePeriod]="2000"
+            [startDelay]="000"
+            [typeSpeed]="180"
+            [data]='[
+                {
+                    "language": "en",
+                    "phrases": [ "My name is Grace.", "Thanks for stopping by :)" ]
+                }
+            ]'></span>
+            <p class="scroll"> Scroll Down To Begin</p>
+    </div>
+
+</div>
