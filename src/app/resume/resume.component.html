@@ -1,4 +1,4 @@
-<app-header [activeSection]="activeSection" [pageXOffset]="pageXOffset" [ngClass]="{'sticky' : isSticky}"></app-header>
+<app-header [ngClass]="{'sticky' : isSticky}"></app-header>
 <app-welcome in-viewport [pageYOffset]="pageYOffset" (inViewport)="onViewport($event.value, 'welcome')"></app-welcome>
 <app-about  in-viewport [pageYOffset]="pageYOffset" (inViewport)="onViewport($event.value, 'about')"></app-about>
 <app-experience in-viewport [pageYOffset]="pageYOffset" (inViewport)="onViewport($event.value, 'experience')"></app-experience>
